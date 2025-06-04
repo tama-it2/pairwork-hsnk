@@ -1,21 +1,29 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/pXPlhKXe)
 # ペアワークによる共同作業練習
 
 # 課題部分
 
 ## チームメンバー
 
-### 多摩太郎（[石川ゼミ](README.md#石川先生の紹介)）
-- 趣味：街歩き
-- 特技：そろばん
 
-### 永山　進（[出原ゼミ](README.md#出原先生の紹介)）
-- 趣味：
-- 特技：
+### 畠山勝真（[趙ゼミ](README.md#趙先生の紹介)）
+- 趣味：ゲーム
+- 特技：ピアノ
 
-## 石川先生の紹介
+
+## 趙先生の紹介
+- 趣味：おしゃれ
+- 師匠：行徳先生
+
+
+
+### 野澤洸陽（[出原ゼミ](README.md#出原先生の紹介)）
+- 趣味：ゲーム、サッカー
+- 特技：ゲーム
+
 
 ## 出原先生の紹介
-
+プログラミングが大好きな先生です。
 
 ## 作業上の注意
 
